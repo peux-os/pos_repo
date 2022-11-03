@@ -6,6 +6,8 @@
 
 
 ### How to add in pacman.conf?
+```
 [pos_repo]
 SigLevel = Never
 Server = https://raw.githubusercontent.com/peux-os/pos_repo/main/$arch
+```
